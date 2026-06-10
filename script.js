@@ -3,10 +3,10 @@
 ================================ */
 
 const text = `
-Hi Cục Zàng 🥰
+Hi Cục Zàng 
 Em luôn tự hào về tất cả những điều anh làm,không quan trọng thành công hay thất bại vì em biết anh đã rất nỗ lực.Em sẽ luôn ở đây bên cạnh lắng nghe và đồng hành cùng anh .
 Mong anh luôn tích cực và đón nhận những điều tốt đẹp sẽ đến với anh.
-Em không giỏi trong việc chọn quà 🫣nhưng em hi vọng anh sẽ thích món quà này và lúc nào cũng nghĩ tới em 😚
+Em không giỏi trong việc chọn quà nhưng em hi vọng anh sẽ thích món quà này và lúc nào cũng nghĩ tới em 
 Happy Birthday Anh Yêu ❤️
 `;
 
